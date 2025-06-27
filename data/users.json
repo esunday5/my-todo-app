@@ -1,0 +1,20 @@
+{
+  "emmyblaq3@gmail.com": {
+    "id": "492c7c11-e06e-48ad-8bb6-18c98327c7f1",
+    "full_name": "Emmanuel Sunday",
+    "email": "emmyblaq3@gmail.com",
+    "password": "143cd9355a5acbdaa42800ce8421ea7d9212a0d587b74a386a896f7dbf665ae4",
+    "created_at": "2025-06-25T18:03:30.097991",
+    "theme": "dark",
+    "notifications_enabled": true
+  },
+  "ekuere.akpan@ekondomfbank.com": {
+    "id": "a38b3b8c-4329-41c4-8fb1-142506fe8c74",
+    "full_name": "Akpan Ekuere",
+    "email": "ekuere.akpan@ekondomfbank.com",
+    "password": "0f63455d01cde3c45eeba9e735c6ed8d52459efa65add3e456475350016ba8ae",
+    "created_at": "2025-06-25T19:07:28.897896",
+    "theme": "dark",
+    "notifications_enabled": true
+  }
+}

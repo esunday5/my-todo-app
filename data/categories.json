@@ -1,0 +1,86 @@
+[
+  {
+    "id": "492c7c11-e06e-48ad-8bb6-18c98327c7f1_work",
+    "name": "Work",
+    "color": "#dc2626",
+    "icon": "\ud83d\udcbc",
+    "user_id": "492c7c11-e06e-48ad-8bb6-18c98327c7f1"
+  },
+  {
+    "id": "492c7c11-e06e-48ad-8bb6-18c98327c7f1_personal",
+    "name": "Personal",
+    "color": "#d97706",
+    "icon": "\ud83c\udfe0",
+    "user_id": "492c7c11-e06e-48ad-8bb6-18c98327c7f1"
+  },
+  {
+    "id": "492c7c11-e06e-48ad-8bb6-18c98327c7f1_health",
+    "name": "Health",
+    "color": "#059669",
+    "icon": "\ud83d\udcaa",
+    "user_id": "492c7c11-e06e-48ad-8bb6-18c98327c7f1"
+  },
+  {
+    "id": "492c7c11-e06e-48ad-8bb6-18c98327c7f1_learning",
+    "name": "Learning",
+    "color": "#7c3aed",
+    "icon": "\ud83d\udcda",
+    "user_id": "492c7c11-e06e-48ad-8bb6-18c98327c7f1"
+  },
+  {
+    "id": "a38b3b8c-4329-41c4-8fb1-142506fe8c74_work",
+    "name": "Work",
+    "color": "#dc2626",
+    "icon": "\ud83d\udcbc",
+    "user_id": "a38b3b8c-4329-41c4-8fb1-142506fe8c74"
+  },
+  {
+    "id": "a38b3b8c-4329-41c4-8fb1-142506fe8c74_personal",
+    "name": "Personal",
+    "color": "#d97706",
+    "icon": "\ud83c\udfe0",
+    "user_id": "a38b3b8c-4329-41c4-8fb1-142506fe8c74"
+  },
+  {
+    "id": "a38b3b8c-4329-41c4-8fb1-142506fe8c74_health",
+    "name": "Health",
+    "color": "#059669",
+    "icon": "\ud83d\udcaa",
+    "user_id": "a38b3b8c-4329-41c4-8fb1-142506fe8c74"
+  },
+  {
+    "id": "a38b3b8c-4329-41c4-8fb1-142506fe8c74_learning",
+    "name": "Learning",
+    "color": "#7c3aed",
+    "icon": "\ud83d\udcda",
+    "user_id": "a38b3b8c-4329-41c4-8fb1-142506fe8c74"
+  },
+  {
+    "id": "emmyblaq3@gmail.com_work",
+    "name": "Work",
+    "color": "#dc2626",
+    "icon": "\ud83d\udcbc",
+    "user_id": "emmyblaq3@gmail.com"
+  },
+  {
+    "id": "emmyblaq3@gmail.com_personal",
+    "name": "Personal",
+    "color": "#d97706",
+    "icon": "\ud83c\udfe0",
+    "user_id": "emmyblaq3@gmail.com"
+  },
+  {
+    "id": "emmyblaq3@gmail.com_health",
+    "name": "Health",
+    "color": "#059669",
+    "icon": "\ud83d\udcaa",
+    "user_id": "emmyblaq3@gmail.com"
+  },
+  {
+    "id": "emmyblaq3@gmail.com_learning",
+    "name": "Learning",
+    "color": "#7c3aed",
+    "icon": "\ud83d\udcda",
+    "user_id": "emmyblaq3@gmail.com"
+  }
+]

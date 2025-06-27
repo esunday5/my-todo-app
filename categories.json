@@ -1,0 +1,26 @@
+[
+  {
+    "id": "work",
+    "name": "Work",
+    "color": "#3b82f6",
+    "icon": "\ud83d\udcbc"
+  },
+  {
+    "id": "personal",
+    "name": "Personal",
+    "color": "#10b981",
+    "icon": "\ud83c\udfe0"
+  },
+  {
+    "id": "health",
+    "name": "Health",
+    "color": "#f59e0b",
+    "icon": "\ud83d\udcaa"
+  },
+  {
+    "id": "learning",
+    "name": "Learning",
+    "color": "#8b5cf6",
+    "icon": "\ud83d\udcda"
+  }
+]

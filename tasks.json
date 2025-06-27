@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Information Technology",
+    "description": "build the leave portal",
+    "category": "work",
+    "priority": "high",
+    "due_date": "2025-06-28T18:00",
+    "tags": [],
+    "completed": true,
+    "created_at": "2025-06-25T16:32:55.562728",
+    "updated_at": "2025-06-25T17:01:29.144533",
+    "completed_at": "2025-06-25T17:01:29.144545"
+  },
+  {
+    "id": 2,
+    "title": "Ekondo Mfbank Recruitment",
+    "description": "complete ekondo microfinance bank recruitment portal",
+    "category": "work",
+    "priority": "high",
+    "due_date": "2025-06-30T19:00",
+    "completed": false,
+    "created_at": "2025-06-25T16:47:44.743332",
+    "updated_at": "2025-06-25T16:47:44.743348"
+  },
+  {
+    "id": 3,
+    "title": "Information Technology",
+    "description": "complete staff portal",
+    "category": "work",
+    "priority": "high",
+    "due_date": "2025-06-30T22:00",
+    "completed": true,
+    "created_at": "2025-06-25T17:30:38.117986",
+    "updated_at": "2025-06-25T17:31:09.788615",
+    "completed_at": "2025-06-25T17:31:09.788627"
+  }
+]
